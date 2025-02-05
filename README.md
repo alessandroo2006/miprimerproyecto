@@ -10,3 +10,6 @@ aprendi a manejar repositorios y commits y ramas para organizar el trabajo de ma
 
 haciendo pruebas en la rama robertson
 holaprobando la rama
+
+soy mario estoy trabajando en la rama
+prueba de la rama
