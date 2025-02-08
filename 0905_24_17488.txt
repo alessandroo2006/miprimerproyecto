@@ -1,0 +1,9 @@
+¿Que aprendiste sobre el flujo de trabajo con Git y GitHub?
+Se comprende como crear ramas para desarrollar nuevas características o así como corregir errores de manera ocasional y luego fusionarlas sin afectar la version principal.
+
+¿Como fue la experiencia de trabajar en parejas? ¿Encontraste algun conflicto? ¿Como lo resolviste?
+pues bien, si tuvimos un conflicto, el conflicto que nos surgió fue  con respecto a la fusion entre las ramas ya que lo que yo escribía en el readme solo aparecía en mi rama y lo que escribía mi compañero solo aparecía en la rama principal, bueno lo resolvimos mediante la IA.
+
+¿Que ventajas crees que tiene usar Git en proyectos de programación?
+Facilita el trabajo en equipo.
+Hay registros que nos permite ver cada cambio que se haga.
