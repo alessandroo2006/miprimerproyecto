@@ -1,0 +1,13 @@
+¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+
+R//aprendí muchas cosas aprendí comandos que no sabia también aprendí a subir los archivos al repositorio de otra manera ya que a mi se ma hacia mas fácil subirlos con la consola de Windows "CMD" pero esta ves aprendí con git bash 
+
+
+ii. ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste
+algún conflicto? ¿Cómo lo resolviste?
+
+R//estube bien la experiencia en pareja ya que ambos trabajamos y tratamos de resolver los problemas, encontramos varios conflictos uno de los principales fue que al crear el README y modificarlo no me dejaba subirlo, le pedi ayuda a la IA y lo termine subiendo con comandos de SSH, y tuvimos el problema de las ramas ya que a mi compañero no le dejaba subir lo que el habia modificado.
+
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de
+programación? 
+R//no logre usarla por el motivo que no lo logre cargar me aceptaron el git studen pero no me lo lograron cargar..
